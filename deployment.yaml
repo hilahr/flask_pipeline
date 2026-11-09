@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: my_flask_app
-          image: hilahr/flask_pipeline
+          image: hilahr/flask_pipeline:latest
